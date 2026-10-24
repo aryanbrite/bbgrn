@@ -34,7 +34,8 @@ link : https://bbgrn.vercel.app/
   <img src="https://cdn.hackclub.com/01a16d41-43de-7aa5-b90d-f6ede5f87f6d/image%20%2819%29.png" alt="Screenshot" width="800">
 </p>
 
-
+made with love by aryan brite
+MIT LICENCE
 
 > [!IMPORTANT]
 > **AI Usage:** : used ai to add mass animation to all the clouds
